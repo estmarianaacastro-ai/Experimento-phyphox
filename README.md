@@ -31,5 +31,5 @@ En este laboratorio se busca analizar el comportamiento y describir el fenómeno
 - [X] Código en Matlab 
 - [X] Código en Python 
 - [X] Graficas ( Matlab y Python )
-- [ ] Informe IEEE
-- [ ] Video Explicativo
+- [X] Informe IEEE
+- [X] Video Explicativo
